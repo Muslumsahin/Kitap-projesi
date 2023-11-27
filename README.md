@@ -21,8 +21,8 @@ Kullanmak için https://kitapprojesi.muslumsahin.com/ sayfasını ziyaret edebil
 Saygılarımla.
 
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+https://github.com/Muslumsahin/Kitap-projesi/assets/28905054/714d2787-76f9-4339-be42-0a016daf85c2
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
