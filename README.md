@@ -10,7 +10,7 @@ Bu projede Laravel ile küçük bir e-ticaret sitesi oluşturdum.
 - Laravel Auth
 - Login ve Register 
 - Sepet Uygulaması
-- SweerAlert
+- SweetAlert
 - CRUD
 - Admin Panel Yönetimi 
 
